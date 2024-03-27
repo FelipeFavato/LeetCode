@@ -1,0 +1,1 @@
+Repositório para estudar, solucionar e possibilitar fácil acesso às questões do LeetCode.
