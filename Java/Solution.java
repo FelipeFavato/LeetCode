@@ -9,5 +9,5 @@ public class Solution {
         mask<<=1;
     }
     return bits;
-}
+  }
 }
