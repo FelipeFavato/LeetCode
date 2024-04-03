@@ -1,0 +1,15 @@
+-- SELECT DISTINCT 
+--     p.name AS nome_professor,
+--     c.name as course_name
+-- FROM 
+--     professor p
+-- JOIN 
+--     schedule s ON p.id = s.professor_id
+-- JOIN 
+--     course c ON s.course_id = c.id
+-- JOIN 
+--     department d ON c.department_id = d.id
+-- LEFT JOIN 
+--     department d_prof ON p.department_id = d_prof.id
+-- WHERE 
+--     d_prof.id IS NULL OR d.id <> d_prof.id;

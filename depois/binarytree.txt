@@ -1,0 +1,6 @@
+The time complexity for a single search in a balanced binary search tree is O(log(n)) .
+Maybe the question requires you to do n searches in the binary tree, hence the total complexity is O(nlog(n)) .
+The worst case complexity for a single search in an unbalanced binary search tree is O(n) 
+
+
+porque??

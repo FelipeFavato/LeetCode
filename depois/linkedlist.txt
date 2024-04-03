@@ -1,0 +1,5 @@
+Time Complexity for searching in a sorted linked list = O(n).
+ Since linked list is sorted so in worst case insertion will take O(N).
+
+
+ porque??
