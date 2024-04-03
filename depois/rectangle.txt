@@ -1,1 +1,18 @@
 To maintain the same area of the rectangle when the length is increased by 42%, the breadth needs to be decreased by approximately 29.6%.
+The shorter side of a rectangle is called its breadth (width) and the longer side is the length.
+
+The question you have asked pertains to the calculation of
+the area of a rectangle, which remains constant despite
+alterations made to its length and breadth. The area of a
+rectangle is calculated by multiplying its length and breadth
+(Area = Length x Breadth). For the area to remain the same, if
+the length is increased by 42%, the breadth must be decreased by
+a certain percentage. This decrease can be calculated using the formula :
+
+Original Length of rectangle = L
+Breadth of rectangle = B
+Increased Length = L + 42% of L = 1.42L
+To maintain constant area: (1.42L)x(New Breadth) = LxB
+Solving the equation, we get New Breadth = LxB /1.42L = B / 1.42
+Hence, the decrease in the breadth is (B - B / 1.42) / B x 100% which approximately equals to 29.6%
+So, the breadth of the rectangle should be decreased by about 29.6% to maintain the same area when the length is increased by 42%.
