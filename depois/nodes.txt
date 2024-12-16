@@ -1,0 +1,7 @@
+Answer: the correct answer is C) L = K - 1,
+which can be derived
+from the formula K = 2L - 1 by substituting L = K/2 + 1.
+Thus, we have K = 2(K/2 + 1) - 1,
+which simplifies to L = K - 1.
+This means that the numberof leaves in a binary tree is always
+one less than the number of nodes with two children.

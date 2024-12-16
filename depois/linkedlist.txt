@@ -1,0 +1,7 @@
+Time Complexity for searching in a sorted linked list = O(n).
+- O tempo cresce de acordo com o input na ordem O(n), ou seja,
+se demora 1 seg para calcular n, vai demorar 10 seg se n crescer em 10.
+
+Since linked list is sorted so in worst case insertion will take O(N).
+
+porque??
